@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 I’m currently learning Machine Learning 
+### 📫 How to reach me jana231023@gmail.com
 
 <!--
 **jana-23/jana-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
